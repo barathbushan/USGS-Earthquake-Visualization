@@ -1,0 +1,3 @@
+Visualizing Earthquake Data from USGS
+
+This app consumes the USGS Earthquake service , and provides the earthquake intensity visualization on a world map using D3.js framework
